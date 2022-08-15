@@ -4,7 +4,9 @@ Tags (HTML):
 
 Descontinuadas:
 
-<u> : subinhado.
+<u> : Subinhado.
+
+<center> : Alinhamento Central.
 
 Usuais:
 
@@ -16,15 +18,13 @@ Usuais:
 
 <del> : Texto Riscado.
 
-<center> : Alinhamento Central.
-
-<span> : Formatar pequenos trechos de código (Geralmente acompanhado pelo atributo "style").
+<span> : Usado para formatar pequenos trechos de código (Geralmente acompanhado pelo atributo "style").
 
 Atributos (HTML):
 
 Alinhamento : align="left/right/center/justify"
 
-Formatar : style=""
+Formatação : style=""
 
 CSS:
 
@@ -32,4 +32,4 @@ Sublinhado = text-decoration: underline;
 
 Nível do Negrito = font-weight: normal/bold/bolder/[valor específico];
 
-Alinhamento = text-align: left/right/center/justify(Ajusta o texto para ficar a esquerda, mas também a direita. Uniformimente espalhado.);
+Alinhamento = text-align: left/right/center/justify(Ajusta o texto para ficar a esquerda, mas também a direita. Uniformemente espalhado.);
