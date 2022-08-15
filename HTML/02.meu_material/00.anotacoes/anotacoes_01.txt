@@ -1,0 +1,65 @@
+Símbolos Especiais:
+
+Comuns:
+
+&nbsp; (Espaço);
+&shy; (Quebra de Palavra com Hífem);
+<wbr> ou <wbr/> (Quebra de Palavra sem Hífem);
+<br> ou <br/> (Quebra de Linha).
+
+Moedas:
+
+&pound; (Libra);
+&yen; (Yene);
+&euro; (Euro).
+
+Profissionais:
+
+&copy; (Copyright);
+&reg; (Registrado);
+&trade; (TradeMark).
+
+Matemáticos:
+
+&lt; (Menor);
+&gt; (Maior);
+&le; (Menor ou Igual);
+&ge; (Maior ou Igual);
+&percnt; (Por cento);
+&permil; (Por mil);
+&sum; (Soma);
+&infin; (Infinito);
+&times; (Multiplicação);
+&plusmn; (Mais/Menos);
+&oplus; (Maior [Circunferência]);
+&radic; (Raíz Quadrada);
+&ne; (Diferente).
+
+Letras Gregas:
+
+&Delta; (Delta Maiúsculo);
+&delta; (Delta Minúsculo);
+&Omega; (Omega Maiúsculo);
+&omega; (Omega Minúsculo);
+&Phi; (Phi Maiúsculo);
+&phi; (Phi Minúsculo).
+
+Setas:
+
+&larr; (Seta para Esquerda);
+&rarr; (Seta para Direita);
+&uarr; (Seta para Cima);
+&darr; (Seta para Baixo);
+&harr; (Seta para os dois lados).
+
+&Larr; (Seta para Esquerda [Dupla]);
+&Larr; (Seta para Direita [Dupla]);
+&Uarr; (Seta para Cima [Dupla]);
+&Darr; (Seta para Baixo [Dupla]).
+
+Nipes das Cartas (Baralho):
+
+&spades; (Espadas);
+&clubs; (Clubes);
+&hearts; (Corações);
+&diams; (Diamantes).
