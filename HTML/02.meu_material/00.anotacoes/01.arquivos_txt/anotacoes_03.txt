@@ -1,0 +1,85 @@
+Cores:
+
+Parâmetros (HTML):
+
+Descontinuados:
+
+Cor de Fundo : bg_color=""
+
+Observação Importante: Lembre-se que a função do HTML é semântica, ou seja, ele só é responsável por dar nome/significado aos elementos, montando a estrutua do site. Sempre que quiser fazer algo que envolva formatação, procure fazer no CSS.
+
+Declarando uma cor:
+
+Existem seis formas:
+
+1 - Nome:
+
+Podemos simplesmente chamar uma cor usando seu nome, por exemplo, red(vermelho), green(verde), blue(azul), etc. Essa é a maneira mais limitada de se fazer isso, pois nem todas as cores possuem um nome.
+
+2 - Hexadecimal:
+
+Outra maneira é utilizando o código hexadecimal da cor em específico, por exemplo, #FF0000(vermelho), #008000(verde), #0000FF(azul). Essa ordem que os códigos possuem não é aleatória, há um padrão para cada cor. Veja:
+
+#xxxxxx
+
+Os dois primeiros dígitos, referem-se a quantidade de vermelho.
+Os dois dígitos do meio, referem-se a quantidade de verde.
+Os dois últimos dígitos, referem-se a quantidade de azul.
+
+Juntando tudo, forma-se a cor escolhida.
+
+3 - R.G.B.:
+
+Uma outra forma, é utilizando o código R.G.B. (Red Green Blue) da determinada cor, por exemplo, rgb(255,0,0) - vermelho, rgb(0,255,0) - verde, rgb(0,0,255) - blue. Essa forma é considerada um pouco melhor do que a do código hexadecial. O padrão desse código é o mesmo do hexadecimal. Veja:
+
+rgb(x,x,x)
+
+O primeiro parâmetro, refere-se a quantidade de vermelho.
+O segundo parâmetro, refere-se a quantidade de verde.
+O terceiro parâmetro, refere-se a quantidade de azul.
+
+Juntando tudo, forma-se a cor escolhida. Os números dos parâmetros vão de 0 a 255.
+
+4 - R.G.B.A.:
+
+Uma outra forma, parecida com o R.G.B., é utilizando o código R.G.B.A. (Red Green Blue Alpha) da determinada cor, por exemplo, rgb(255,0,0,1) - vermelho, rgb(0,255,0,1) - verde, rgb(0,0,255,1) - blue. Essa forma é praticamente idêntica ao R.G.B., a única diferença, é a adição de um novo parâmetro que define a transparência do conteúdo da página. Veja:
+
+rgba(x,x,x,x)
+
+O primeiro parâmetro, refere-se a quantidade de vermelho.
+O segundo parâmetro, refere-se a quantidade de verde.
+O terceiro parâmetro, refere-se a quantidade de azul.
+O quarto parâmetro, refere-se a quantidade de transparência do conteúdo da página.
+
+Juntando tudo, forma-se a cor escolhida e a quantidade de transparência. Os números dos parâmetros vão de 0 a 255, com excessão do parâmetro Alpha, que vai de 0 a 1.
+
+5 - H.S.L.:
+
+Uma quinta forma de se fazer isso, é definindo a cor através da Matiz, Saturação e Luminosidade, por exemplo, hsl(0,100%,50%) - vermelho, hsl(120%,100%,50%) - verde, hsl(240%,100%,50%) - blue. Também há um padrão a ser seguido. Veja:
+
+hsl(x,x,x)
+
+O primeiro parâmetro, refere-se a quantidade de matiz.
+O segundo parâmetro, refere-se a quantidade de saturação.
+O terceiro parâmetro, refere-se a quantidade de luminosidade.
+
+Juntando tudo, forma-se a cor escolhida. Os parâmetros são em porcentagem.
+
+6 - H.S.L.A.:
+
+Uma última forma de se fazer isso, é definindo a cor através da Matiz, Saturação, Luminosidade e Alpha, por exemplo, hsla(0,100%,50%,1) - vermelho, hsla(120%,100%,50%,1) - verde, hsla(240%,100%,50%,1) - blue. O padrão é o mesmo do hsl. Veja:
+
+hsla(x,x,x,x)
+
+O primeiro parâmetro, refere-se a quantidade de matiz.
+O segundo parâmetro, refere-se a quantidade de saturação.
+O terceiro parâmetro, refere-se a quantidade de luminosidade.
+O quarto parâmetro, refere-se a quantidade de transparência do conteúdo da página.
+
+Observação: Você não precisa decorar esses códigos. Existem diversos sites na internet que exibem esses códigos e também diversos softwares com seletores de cores (Excel, Power BI, Photoshop, etc).
+
+Juntando tudo, forma-se a cor escolhida e a quantidade de transparência. Os parâmetros são em porcentagem, com excessão do parâmetro Alpha, que vai de 0 a 1.
+
+CSS:
+
+Colocando uma Imagem de Plano de Fundo da Página = background-image: url("[nome do arquivo].[extensão do arquivo]");

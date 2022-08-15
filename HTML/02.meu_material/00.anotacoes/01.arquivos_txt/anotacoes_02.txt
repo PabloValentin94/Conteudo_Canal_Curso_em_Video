@@ -36,7 +36,7 @@ Alinhamento : align="left/right/center/justify"
 
 Usuais:
 
-Formatação : style="  "
+Formatação : style=""
 
 CSS:
 
