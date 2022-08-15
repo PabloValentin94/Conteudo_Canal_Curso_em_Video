@@ -1,0 +1,49 @@
+Formatação:
+
+Tags (HTML):
+
+Descontinuadas:
+
+<u> : Subinhado.
+
+<center> : Alinhamento Central.
+
+Usuais:
+
+<b> : Negrito.
+
+<i> : Itálico.
+
+<em> : Ênfase.
+
+<del> : Texto Riscado.
+
+<span> : Usado para formatar pequenos trechos de código (Geralmente acompanhado pelo atributo "style").
+
+<sup> : Deixa o texto sobrescrito (Forma como os números são representados em Potenciação).
+
+<sub> : Deixa o texto subescrito (Forma como os números são repesentados nos Elementos Químicos).
+
+<code> : Especifica ao HTML que o que está sendo inserido, dentro da tag, é um trecho de código.
+
+<pre> : É uma tag que funciona em conjunto com a tag code. Quando damos espaços ou quebras de linha em um código HTML, ele os ignora, a menos que usemos tags para força-lo a aceitá-los, mas, quando usamos tag pre, o HTML passa a considerar todos os espaços e quebras de linha existentes.
+
+Parâmetros (HTML):
+
+Descontinuados:
+
+Alinhamento : align="left/right/center/justify"
+
+Usuais:
+
+Formatação : style="  "
+
+CSS:
+
+Sublinhado em baixo / Riscado / Sublinhado em baixo = text-decoration: underline/overline/line-through;
+
+Negrito = font-weight: normal/bold/bolder/[valor específico];
+
+Alinhamento = text-align: left/right/center/justify(Ajusta o texto para ficar tanto à esquerda, quanto à direita);
+
+Identação (Espaçamento da linha inicial de um Parágrafo) = text-indent: [valor específico];

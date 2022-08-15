@@ -3,8 +3,8 @@ Símbolos Especiais:
 Comuns:
 
 &nbsp; (Espaço);
-&shy; (Quebra de Palavra com Hífem);
-<wbr> ou <wbr/> (Quebra de Palavra sem Hífem);
+&shy; (Quebra de Palavra com Hífen);
+<wbr> ou <wbr/> (Quebra de Palavra sem Hífen);
 <br> ou <br/> (Quebra de Linha).
 
 Moedas:
